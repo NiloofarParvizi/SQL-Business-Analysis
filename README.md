@@ -69,6 +69,10 @@ The analysis covers:
 * SQL
 * PandaSQL
 
+### Dataset
+
+The dataset was provided as part of the  course and is not included in this repository.
+
 ## Key Findings
 
 The analysis highlights differences in order volume, revenue, fulfillment performance, customer behavior, acquisition efficiency, and discount patterns across cities and time periods.
